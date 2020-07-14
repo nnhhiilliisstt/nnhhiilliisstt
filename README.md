@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Screenshot](the-witcher-3-wild-hunt-minimalist-uhdpaper.com-4K-5.1321.jpg)
-![alt text](http://url/to/the-witcher-3-wild-hunt-minimalist-uhdpaper.com-4K-5.1321.jpg)
+
+
 
 <!--
 **nnhhiilliisstt/nnhhiilliisstt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
