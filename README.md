@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![alt text](http://url/to/https://avatars3.githubusercontent.com/u/50402733?s=400&u=a4903070b39cb4bebe8dbe6cc6aaa46dd51028fa&v=4)
 <!--
 **nnhhiilliisstt/nnhhiilliisstt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
