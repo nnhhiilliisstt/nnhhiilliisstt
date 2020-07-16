@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@zero-to-mastery](https://github.com/zero-to-mastery), web development intern at ICSGDD.
+Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member at  🙍🏽‍♂️ [@zero-to-mastery](https://github.com/zero-to-mastery), web development intern at ICSGDD.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
