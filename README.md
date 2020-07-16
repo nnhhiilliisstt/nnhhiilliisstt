@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
+### Hey 👋🏽, I'm [Kumar Aditya](https://kumaraditya.netlify.app/) 
 
 <br/>
 <a href="https://twitter.com/geeky_abhiz">
