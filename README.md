@@ -30,7 +30,7 @@ Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a C
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [crwn-clothing](https://github.com/nnhhiilliisstt/crwn-clothing)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kumaraditya8894@gmail.com
 
