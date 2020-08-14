@@ -5,16 +5,16 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kumar-aditya-77a2b4194/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://t.me/nnhhiilliisstt">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://www.reddit.com/user/nniihhiilliisstt">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />
 </a>
 
 
