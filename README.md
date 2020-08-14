@@ -50,6 +50,7 @@ Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a C
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/svg/919/919831.svg"></code>
 
 
 
