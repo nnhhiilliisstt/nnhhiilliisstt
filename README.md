@@ -33,7 +33,8 @@ Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a C
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kumaraditya8894@gmail.com
-- 💻Check out my portfolio:https://kumaraditya.netlify.app/
+- 💻 Portfolio: https://kumaraditya.netlify.app/
+
 
 
 **Languages and Tools:**  
