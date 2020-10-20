@@ -29,7 +29,7 @@ Hi, I'm Kumar Aditya, a Developer 🚀 from India, currently, I'm working as a W
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [crwn-clothing](https://github.com/nnhhiilliisstt/crwn-clothing)
+- 👨🏽‍💻 I’m currently working at QuickSilver Technologies PVT LTD
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kumar.aditya221b@gmail.com
