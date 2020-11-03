@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm Kumar Aditya, a Developer 🚀 from India, currently, I'm working as a Web Developer at Quicksilver Technologies Private Limited, a Community Team Member at  🙍🏽‍♂️ [@zero-to-mastery](https://github.com/zero-to-mastery), former web development intern at ICSGDD.
+Hi, I'm Kumar Aditya, a Developer 🚀 from India, currently, former Full Stack Developer at Quicksilver Technologies Private Limited, a Community Team Member at  🙍🏽‍♂️ [@zero-to-mastery](https://github.com/zero-to-mastery), former web development intern at ICSGDD.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
